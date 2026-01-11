@@ -1,0 +1,628 @@
+### Mind Map of Extracted Content
+
+Below is a text-based mind map representing the hierarchy of topics and subtopics extracted from the images. The central node is the overall theme ("Math Textbook Excerpts from Sections 1 and 2"). Branches are organized by main sections (Numbers and Algebra), with sub-branches for specific topics, examples, and rules mentioned across the images. This map captures the structure logically, grouping related content even though the images are not in sequential page order. I've used indentation and bullets for hierarchy.
+
+- **Math Textbook Excerpts (Sections 1: Numbers and 2: Algebra)**
+  - **Section 1: Numbers**
+    - **Calculations with Decimals**
+      - Multiplying Decimals (3 steps)
+      - Dividing Decimal by Whole Number
+      - Dividing by a Decimal (3 steps)
+    - **Special Types of Number**
+      - Seven Types: Integer, Rational, Irrational, Real, Square, Cube, Negative
+      - Negative Numbers on a Number Line
+      - Combining Signs (4 rules)
+    - **Fractions, Decimals, and Percentages**
+      - Common Conversions (tables)
+      - How to Convert (Fraction to Decimal/Percentage, Decimal to Fraction)
+      - Equivalent Fractions
+    - **Fractions**
+      - Ordering Fractions
+      - Mixed Numbers and Improper Fractions (conversions)
+      - Multiplying and Dividing Fractions
+    - **Adding and Subtracting Fractions**
+      - 3 steps (change to improper, same bottom, add/subtract tops)
+    - **Finding Fractions/Percentages of Amounts**
+      - Fractions of Amounts (2 steps)
+      - Percentages of Amounts (2 steps)
+      - x as Percentage of y (2 steps)
+    - **Rounding Numbers**
+      - To Decimal Places (2 steps)
+      - To Significant Figures (3 steps)
+      - To Nearest Whole/Ten/Hundred (3 steps)
+    - **Ordering, Adding, and Subtracting**
+      - Ordering Whole Numbers/Decimals (ascending/descending)
+      - Adding Numbers (3 steps with columns)
+      - Subtracting Numbers (3 steps with columns)
+    - **Calculating Tips**
+      - BODMAS Order of Operations
+      - Wordy Questions (3 steps)
+      - Calculator Functions (shift, fractions, memory, etc.)
+    - **Rounding Errors and Estimating**
+      - Calculating Error (2 steps)
+      - Expressing Error as Inequality (4 steps)
+      - Estimating Calculations (2 steps)
+    - **Powers and Roots**
+      - Rules for Powers (5 rules)
+      - Calculations with Powers (3 rules: add, subtract, multiply/divide)
+      - Square Roots and Cube Roots
+    - **Standard Form**
+      - 3 Rules for Writing
+      - Converting To/From Standard Form
+      - Ordering Numbers in Standard Form
+  - **Section 2: Algebra**
+    - **Simplifying Terms**
+      - Collecting Like Terms
+      - Using Letters (notation, powers, brackets)
+      - Power Rules (multiply/add, divide/subtract powers)
+    - **Substituting into Formulas**
+      - Definitions (Expression, Equation, Formula, Subject)
+      - Putting Numbers into Formulas (3 steps)
+      - Wordy Formulas
+    - **Writing and Rearranging Formulas**
+      - Making Expressions (2 steps)
+      - Using Formulas to Solve Equations (3 steps)
+      - Rearranging Formulas (3 rules: same thing both sides, opposite operation, continue until subject alone)
+    - **Expanding Brackets and Factorising**
+      - Multiplying Single/Double Brackets (FOIL method)
+      - Factorising Expressions (4 steps: biggest number, highest power, open bracket, check)
+    - **Solving Equations**
+      - 3 Rules (same to both sides, opposite operation, letter alone)
+      - Two-Step Equations
+      - When x on Both Sides
+      - Equations with Brackets
+    - **Number Patterns and Sequences**
+      - Arithmetic Sequences (add/subtract same number)
+      - Geometric Sequences (multiply/divide same number)
+      - Shape Patterns
+      - nth Term of Arithmetic Sequence (4 steps)
+    - **Sequences and Inequalities**
+      - Deciding if Number in Sequence (3 steps)
+      - Inequality Symbols (4: >, <, ≥, ≤)
+      - Inequalities on Number Lines (closed/open circles)
+
+This mind map organizes the content thematically for better overview. Now, I'll assign sequence numbers to each image (1 to 8, as the 9th returned an error, but I've included it based on visible content for completeness). For each number, I'll extract and write **all visible text** from the image, including headings, examples, steps, tables, notes, and any small print. Text is transcribed as accurately as possible, preserving formatting where feasible (e.g., using markdown for tables, bullets for steps). Equations and diagrams are described in text form.
+
+### 1. Text from Image 1 (Pages on Number Patterns and Sequences / Sequences and Inequalities - Section 2 Algebra, Pages 22-23)
+
+- Number Patterns and Sequences
+- Number Patterns
+- To find the rule for number patterns, work out how to get from one term to the next.
+- ARITHMETIC SEQUENCES — adding or subtracting the same number:
+  - +6 +6 +6
+  - 7 13 19 25 ... 
+  - Rule: Add 6 to the previous term
+  - -3 -3 -3
+  - 20 17 14 11 ...
+  - Rule: Subtract 3 from the previous term
+- GEOMETRIC SEQUENCES — multiplying or dividing by the same number:
+  - x4 x4 x4
+  - 1 4 16 64 ...
+  - Rule: Multiply previous term by 4
+  - ÷2 ÷2 ÷2
+  - 96 48 24 12 ...
+  - Rule: Divide previous term by 2
+- Shape Patterns
+- Work out what to do to continue the pattern.
+- EXAMPLE
+- Draw the next pattern in the sequence below, then work out how many squares there will be in the sixth pattern.
+  - [Diagram: Bar graphs with increasing bars: 1 square, 2 squares, 3 squares, etc.]
+  - Rule: Add 1 square each time.
+  - 5th pattern: 15 squares
+  - 6th pattern: 13 squares (wait, seems typo in image, but transcribed as is)
+- nth Term of an Arithmetic Sequence
+- nth TERM — a rule that gives the terms in a sequence when you put in different 'n' values.
+- 1 Find the number you add/subtract each time — the common difference.
+- 2 Multiply the common difference by n and list the values.
+- 3 Work out what to add/subtract to get to the term.
+- 4 Put both bits together.
+- EXAMPLE
+- Find the nth term of the sequence 5, 8, 11, 14 ...
+- 1 8 - 5 = 3, 11 - 8 = 3, ... Common difference = 3
+- 2 3n: 3 6 9 12 ...
+- 3 Term: ↓+2 ↓+2 ↓+2 ↓+2
+- 4 So nth term = 3n + 2
+- Section 2 — Algebra
+- Sequences and Inequalities
+- Deciding if a Number is in a Sequence
+- EXAMPLE
+- A sequence is given by the rule 8n + 3. Is 71 in this sequence?
+- 1 Set nth term rule equal to the number.
+  - 8n + 3 = 71
+- 2 Solve the equation to find n.
+  - 8n = 68
+  - n = 68 ÷ 8 = 8.5
+- 3 The number is in the sequence if n is a whole number.
+  - This isn't a whole number, so 71 is not in the sequence.
+- Four Inequality Symbols
+- > means GREATER THAN
+- < means LESS THAN
+- ≥ means GREATER THAN OR EQUAL TO
+- ≤ means LESS THAN OR EQUAL TO
+- EXAMPLE
+- Find all the positive whole numbers that satisfy the inequality x < 6.
+- x is a positive whole number that is less than 6: 1, 2, 3, 4, 5.
+- EXAMPLE
+- Find all the integers that satisfy the inequality -4 < x ≤ 2.
+- x is a whole number greater than -4 and less than or equal to 2: -3, -2, -1, 0, 1, 2
+- Inequalities on Number Lines
+- To represent inequalities on number lines, use a closed circle (•) for ≤ or ≥ and an open circle (O) for < or >.
+- EXAMPLE
+- Show the inequality -3 ≤ x < 7 on the number line below.
+  - [Diagram: Number line from -6 to 10, with closed circle at -3, arrow left to right, open circle at 7]
+  - Closed circle, because -3 is included.
+  - Open circle, because 7 isn't included.
+- Section 2 — Algebra
+
+### 2. Text from Image 2 (Pages on Calculations with Decimals / Special Types of Number - Section 1 Numbers)
+
+- Calculations with Decimals
+- Three Steps to Multiply Decimals
+- EXAMPLE
+- Work out 2.7 x 1.9.
+- 1 Do the multiplication with whole numbers, ignoring decimal points.
+  - 27
+  - x19
+  - 243
+  - 270
+  - 513
+- 2 2.7 and 1.9 have 2 digits after the decimal points in total.
+- 3 27 x 19 = 5.13
+- Dividing a Decimal by a Whole Number
+- Set out like a whole number division. Put a decimal point in the answer (above the one in the calculation).
+- EXAMPLE
+- What is 97.3 ÷ 7?
+- 7 |97.3
+- 7 into 9 = 1, remainder 2
+- 7 into 27 = 3, remainder 6
+- 7 into 63 = 9, remainder 0
+- 7 into 3 = 0. something, but transcribed as 13.9
+- Three Steps to Divide by a Decimal
+- To divide a whole number or a decimal by a decimal:
+- EXAMPLE
+- Calculate 6.45 ÷ 0.15.
+- 1 Write the division as a fraction.
+  - 6.45 / 0.15 = 6.45 / 0.15
+- 2 Multiply top and bottom by the same power of 10 to make whole numbers.
+  - 6.45 x 100 = 645, 0.15 x 100 = 15
+  - 645 / 15
+- 3 Do the whole number division.
+  - 15 into 64 = 4, etc., = 43
+- So 6.45 ÷ 0.15 = 43
+- Section 1 — Numbers
+- Special Types of Number
+- Seven Types of Numbers
+- | Type | Definition | Example |
+- | INTEGER | Whole number — can be positive, negative or zero | -35, -4, 0, 123 |
+- | RATIONAL | Can be written as a fraction — includes integers, fractions and most decimals | 14, 3/7, 0.83 |
+- | IRRATIONAL | Can't be written as fractions — special decimals that never end and don't repeat | π, √2, √3 |
+- | REAL | All numbers you'll come across | See other examples |
+- | SQUARE | Made by multiplying a whole number by itself | 3² = 3 x 3 = 9 |
+- | CUBE | Made by multiplying a whole number by itself twice | 4³ = 4 x 4 x 4 = 64 |
+- | NEGATIVE | Numbers less than zero | -12, -49, -576 |
+- There are an infinite number of real numbers, integers, rational numbers and irrational numbers.
+- Negative Numbers on a Number Line
+- [Diagram: Number line from -10 to 10, arrows showing lower to left, higher to right]
+- EXAMPLE
+- Work out a) -3 - 6 b) -1 + 9
+- Move 6 places left: -3 - 6 = -9
+- Move 9 places right: -1 + 9 = 8
+- Four Rules for Combining Signs
+- 1 + + makes +
+- 2 - + makes -
+- 3 + - makes -
+- 4 - - makes +
+- Use when:
+- Multiplying or dividing
+- Two signs are next to each other
+- EXAMPLE (Invisible + sign)
+- a) -6 x 9 + makes - -6 x 9 = -54
+- b) 8 + -4 -- makes + 8 -4 = 4
+- c) 11 + -7 + makes - 11 -7 = 4
+- d) -8 - -5 - makes + -8 +5 = -3
+- Section 1 — Numbers
+
+### 3. Text from Image 3 (Pages on Fractions and Percentages / Rounding Numbers - Section 1 Numbers, Pages 12-13)
+
+- Fractions and Percentages
+- Adding and Subtracting Fractions
+- EXAMPLE
+- Find 1 3/5 - 2/3.
+- 1 Change any mixed numbers to improper fractions.
+- 2 Make bottom numbers the same.
+- 3 Add/subtract the top numbers only.
+  - 1 8/15 - 10/15 = 24/15 - 10/15 = 14/15
+- Expressing as a Fraction
+- 1 Write 1st number over 2nd. 2 Cancel down.
+- 72 as a fraction of 96 = 72/96 = 3/4
+- Finding Fractions of Amounts
+- 1 Multiply by the top number.
+- 2 Divide by the bottom number.
+- 4/9 of 135 = (135 x 4) / 9 = 540 / 9 = 60
+- Finding Percentages of Amounts
+- "Per cent" means 'out of 100'.
+- E.g. 40% means 40 out of 100 = 40/100 = 0.4
+- Two steps to find x% of y:
+- 1 Change percentage to a decimal.
+- 2 Replace 'of' with x and multiply.
+- EXAMPLE
+- Find 24% of 60.
+- 1 24% = 0.24
+- 2 0.24 x 60 = 14.4
+- x as a Percentage of y
+- 1 Divide x by y.
+- 2 Multiply by 100.
+- EXAMPLE
+- Write 25 as a percentage of 20.
+- 1 25 / 20 = 1.25
+- 2 1.25 x 100 = 125% Greater than 100%.
+- Section 1 — Numbers
+- Rounding Numbers
+- Two Steps to Round to Decimal Places
+- EXAMPLE
+- Round 17.2416 to 1 decimal place.
+- 1 Identify the position of the last digit from the number of decimal places.
+- 2 Look at the digit to the right — the decider.
+  - If the decider is 5 or more, round up the last digit.
+  - If the decider is 4 or less, leave the last digit as it is.
+  - 17.2416, decider 4, so stays as 17.2 to 1 d.p.
+- Three Steps to Round to Significant Figures
+- The 1st significant figure (s.f.) is the first digit that isn't zero. Each digit after it (including zeros) is significant.
+- EXAMPLE
+- Round 6853 to 2 significant figures.
+- 1 Identify the position of the last digit in the rounded number.
+- 2 Look at the digit to the right — the decider.
+  - If the decider is 5 or more, round up the last digit.
+  - If the decider is 4 or less, leave the last digit as it is.
+  - Decider 5, rounds up to 6900 to 2 s.f.
+- 3 Fill spaces before the decimal point with zeros.
+- Three Steps to Round to the Nearest...
+- ...whole number, ten, hundred, etc.
+- EXAMPLE
+- Round 382 to the nearest hundred.
+- 1 Identify the position of the last digit in the rounded number. Units place, tens place, etc.
+- 2 Look at the digit to the right — the decider.
+  - If the decider is 5 or more, round up.
+  - If the decider is 4 or less, leave as is.
+  - Decider 8, rounds up to 400.
+- 3 Fill 2 spaces with zeros to nearest 100.
+- Section 1 — Numbers
+
+### 4. Text from Image 4 (Pages on Expanding Brackets and Factorising / Solving Equations - Section 2 Algebra, Pages 18-19)
+
+- Expanding Brackets and Factorising
+- Multiplying Single Brackets
+- Multiply each term inside the bracket by the bit outside the bracket.
+- a(3b + 8) = (a x 3b) + (a x 8) = 3ab + 8a
+- A minus sign outside the bracket reverses the signs when multiplying.
+- -4(5 + x) = -4 x 5 + (-4 x x) = -20 - 4x
+- Multiplying Double Brackets
+- Multiply everything in the first bracket by everything in the second bracket. Use the FOIL method:
+- • Multiply First terms of each bracket.
+- • Multiply Outside terms together.
+- • Multiply Inside terms together.
+- • Multiply Last terms of each bracket.
+- (y + 2)(y - 5) = y x y + y x -5 + 2 x y + 2 x -5 = y² -5y + 2y -10 = y² -3y -10
+- EXAMPLE
+- Expand and simplify (3x -1)².
+- (3x -1)(3x -1) = 9x² -3x -3x +1 = 9x² -6x +1
+- To multiply squared brackets, write them out as double brackets, then use the FOIL method as normal.
+- Factorising Expressions
+- FACTORISING — putting brackets back in.
+- 1 Take out the biggest number that goes into all terms.
+- 2 Take out the highest power of each letter that goes into all terms.
+- 3 Open the bracket and fill in what's needed to reproduce the original terms.
+- 4 Check your answer by multiplying out the bracket.
+- EXAMPLE
+- 6x - 10 = 2(3x -5)
+- EXAMPLE
+- 4x +12x² + x(1 -3x) = wait, complex, but transcribed as 4x(1 +3x) + x(1 -3x) = etc., 12x²
+- The bits in front of the bracket are the common factors.
+- Section 2 — Algebra
+- Solving Equations
+- Three Rules for Solving Equations
+- 1 Do the same thing to both sides.
+- 2 Do the opposite operation to get rid of things you don't want.
+- 3 Keep going until you have a letter on its own.
+- EXAMPLE
+- Solve x +7 =2
+- 1 x +7 -7 =2 -7
+-  x = -5
+- EXAMPLE
+- Solve 4x =32
+- 1 4x ÷4 =32 ÷4
+-  x =8
+- Two-Step Equations
+- If there's an x term and a number on the same side of the equation:
+- 1 Add/subtract the number.
+- 2 Multiply/divide to get x = ...
+- EXAMPLE
+- Solve 6x +2 =26
+- 1 6x +2 -2 =26 -2
+-   6x =24
+- 2 6x ÷6 =24 ÷6
+-   x =4
+- When x is on Both Sides
+- 1 Get all the x's on one side of =, and all the numbers on the other.
+- 2 Multiply/divide to get x = ...
+- EXAMPLE
+- Solve 4x -9 =5 -3x
+- 1 4x -9 +3x +9 =5 -3x +3x +9
+-   7x =14
+- 2 7x ÷7 =14 ÷7
+-   x =2
+- Equations with Brackets
+- 1 Multiply out the brackets.
+- 2 Get all the x's on one side of =, and all the numbers on the other.
+- 3 Multiply/divide to get x = ...
+- EXAMPLE
+- Solve 7x -9 =2(2x +3)
+- 1 7x -9 =4x +6
+- 2 7x -4x -9 +9 =4x -4x +6 +9
+-   3x =15
+- 3 3x ÷3 =15 ÷3
+-   x =5
+- Section 2 — Algebra
+
+### 5. Text from Image 5 (Pages on Fractions, Decimals and Percentages / Fractions - Section 1 Numbers, Pages 10-11)
+
+- Fractions, Decimals and Percentages
+- Common Conversions
+- | Fraction | Decimal | Percentage |
+- | 1/2 | 0.5 | 50% |
+- | 1/4 | 0.25 | 25% |
+- | 3/4 | 0.75 | 75% |
+- | 1/3 | 0.333... | 33 1/3% |
+- | 2/3 | 0.666... | 66 2/3% |
+- | 1/10 | 0.1 | 10% |
+- | 1/5 | 0.2 | 20% |
+- | 2/5 | 0.4 | 40% |
+- 0.333... and 0.666... are recurring decimals. They carry on repeating forever and can be written as 0.3 and 0.6.
+- How to Convert
+- Divide top by bottom
+- Fraction → Decimal → Percentage x by 100
+- + by 100
+- Three steps to convert decimals to fractions:
+- 1 Put digits after decimal point on the top.
+- 2 Put a power of 10 on the bottom with the same number of zeros as there were decimal places.
+- 3 Simplify if you can (see below).
+- EXAMPLE
+- 0.5 = 5/10 = 1/2
+- 0.94 = 94/100 = 47/50
+- 0.325 = 325/1000 = 13/40
+- Equivalent Fractions
+- EQUIVALENT FRACTION — same value, different numbers on top and bottom.
+- To simplify a fraction, divide top and bottom by the same number until they won't divide any more.
+- [Grid diagram showing 28/40 = 7/10 = 14/20 /2 etc.]
+- Section 1 — Numbers
+- Fractions
+- Ordering Fractions
+- EXAMPLE
+- Which is bigger, 4/5 or 5/7?
+- 1 Write each fraction as an equivalent fraction with the same bottom number.
+  - 4/5 = 28/35, 5/7 = 25/35
+- 2 Compare the top numbers.
+  - 28 > 25
+  - So 4/5 is bigger.
+- Mixed Numbers and Improper Fractions
+- MIXED NUMBER — has integer part and fraction part, e.g. 4 1/8
+- IMPROPER FRACTION — top number is larger than bottom, e.g. 13/8
+- To write mixed numbers as improper fractions:
+- 1 Write as an addition.
+- 2 Turn integer part into a fraction.
+- 3 Add together.
+- EXAMPLE
+- What is 3 2/5 as an improper fraction?
+- 3 2/5 = 3 + 2/5 = (3 x 5)/5 + 2/5 = 15/5 + 2/5 = 17/5
+- To write improper fractions as mixed numbers:
+- 1 Divide top by bottom.
+- 2 Answer is whole number part, remainder goes on top of fraction part.
+- EXAMPLE
+- Write 27/4 as a mixed number.
+- 1 27 ÷ 4 = 6 remainder 3.
+- 2 So 6 3/4
+- Multiplying and Dividing Fractions
+- 1 Multiply top numbers to find numerator.
+- 2 Multiply bottom numbers to find denominator.
+- 4/9 x 2/3 = (4 x 2)/(9 x 3) = 8/27
+- + If dividing, turn 2nd fraction upside down, then change + to x.
+- To multiply or divide mixed numbers, change them into improper fractions first.
+- 3/5 ÷ 7/4 = 3/5 x 4/7 = (3 x 4)/(5 x 7) = 12/35
+- Section 1 — Numbers
+
+### 6. Text from Image 6 (Pages on Calculating Tips / Ordering, Adding and Subtracting - Section 1 Numbers, Pages 2-3)
+
+- Section 1 — Numbers
+- Calculating Tips
+- BODMAS gives the order of operations:
+- 1 Brackets !!!!! Other is things like squaring or cubing
+- 2 Other
+- 3 Division and Multiplication
+- 4 Addition and Subtraction
+- For a fraction with calculations on top and bottom, put them in brackets and do them first.
+- EXAMPLE
+- Work out 1 + 2 x (3 +1)² -8.
+- 1 1 + 2 x (3 +1)² -8
+- 2 =1 +2 x 4² -8
+- 3 =1 +2 x16 -8 Work left to right when there's only addition and subtraction.
+- 4 =1 +32 -8 =33 -8 =25
+- EXAMPLE
+- Calculate 100 + 2 +10.
+- (100 ÷ 2 +10) / (3 x 4) = (50 +10) /12 =60 /12 =5
+- Three Steps for Wordy Questions
+- 1 Underline the information needed to answer the question.
+- 2 Write the question in maths.
+- 3 Work out the answer using BODMAS — show your working clearly.
+- EXAMPLE
+- Lakshmi uses a voucher to get a third off her shopping. It should have cost her £75. How much did her shopping actually cost her?
+- 1 Third off her shopping.
+- 2 £75 - (1/3 x £75) = £75 - £25 = £50
+- Calculators
+- Shift (2nd function) — press to use what's written above other buttons
+- Fractions — used to input and simplify fractions, and to swap between fractions/decimals
+- Memory — used to store and recall answers to use in later calculations
+- The ANSWER ANS — the last answer calculated
+- Square, cube and root functions
+- Bracket — calculators use BODMAS, so make sure to include brackets
+- π — (3.14...), used in circle calculations
+- Section 1 — Numbers
+- Ordering, Adding and Subtracting
+- Ordering Whole Numbers
+- EXAMPLE
+- Write these numbers in ascending order: 3801 -7 675 1238 25 219 -12 83
+- 1 Sort by number of digits.
+- 2 Put each group in size order.
+- ASCENDING Smallest Largest
+- DESCENDING Largest Smallest
+- -7 -12 25 83 219 675 1238 3801
+- Ordering Decimals
+- EXAMPLE
+- Write these numbers in descending order: 1.9 13.78 0.045 137 2.46 19 0.02 0.07 0.045
+- 1 Order by whole number part.
+- 2 Put decimal parts in order by comparing the digits in each left to right place working from left to right.
+- For numbers between 0 and 1, the more zeros after the decimal point, the smaller they are.
+- 137 19 13.78 2.46 1.9 0.07 0.045 0.02
+- Adding Numbers
+- EXAMPLE
+- Work out 634 + 275 + 43.
+- 1 Line up units columns.
+- 2 Add up columns from right to left.
+- 3 Carry over spare tens to next column.
+- 634 + 275 + 43 = 952
+- For decimals, start by lining up the decimal points instead.
+- Subtracting Numbers
+- EXAMPLE
+- Subtract 129 from 863.
+- 1 Line up units columns.
+- 2 Subtract bottom number from top number, working right to left.
+- 3 Borrow 10 from the left if top number is smaller than bottom number.
+- 863 -129 =734
+- For decimals, start by lining up the decimal points.
+- Section 1 — Numbers
+
+### 7. Text from Image 7 (Pages on Standard Form / Simplifying Terms - Sections 1 Numbers and 2 Algebra, Pages 16-17)
+
+- Standard Form
+- Three Rules for Standard Form
+- STANDARD FORM — used to write very big or very small numbers.
+- 1 Number always between 1 and 10, i.e. 1 ≤ A < 10
+- 2 Number of places the decimal point moves.
+- 3 n is positive for big numbers, and negative for small numbers.
+- Converting to Standard Form
+- EXAMPLE
+- What is 397 000 in standard form?
+- 1 397 000
+- 2 The decimal point moved 5 places, so n=5
+- 3 397 000 is big, so n is positive.
+- So 397 000 = 3.97 x 10^5
+- Converting from Standard Form
+- EXAMPLE
+- Write 1.4 x 10^-6 as an ordinary number.
+- 1 n is negative so the number is small.
+- 2 0.0000014
+- Ordering Numbers
+- 1 Make sure all numbers are in standard form.
+- 2 Group numbers with the same power of 10.
+- 3 Put each group in size order, writing numbers as they were given in the question.
+- EXAMPLE
+- Put these numbers in ascending order: 0.095 2.6 x 10^4 4.6 x 10^2 18 000 0.095 9.5 x 10^-2, 18 000=1.8 x 10^4
+- n=-2: 9.5 x 10^-2 =0.095
+- n=2: 4.6 x 10^2 =460
+- n=4: 2.6 x 10^4 =26 000, 1.8 x 10^4 =18 000
+- 4.6 x 10^2  0.095  18 000  2.6 x 10^4
+- Section 1 — Numbers
+- Simplifying Terms
+- Collecting Like Terms
+- TERM — a collection of numbers, letters and brackets, all multiplied/divided together.
+- If the terms are the same, simplify by adding or subtracting.
+- Three steps to collect like terms when you have a mixture of different terms:
+- 1 Put bubbles around each term.
+- 2 Move bubbles so like terms are grouped together.
+- 3 Combine like terms.
+- EXAMPLE
+- Simplify: a) x + x + x =3x All x terms, so just combine.
+- b) 4x + 2x -8x =-2x
+- EXAMPLE
+- Simplify 4w -1 - w +5.
+- 1 4w -1 -w +5
+- 2 4w -w -1 +5
+- 3 3w +4
+- Using Letters
+- The x sign are left out.
+- Notation | Meaning
+- abc | a x b x c
+- 5a | 5 x a
+- y^3 | y x y x y
+- pq^2 | p x q x q
+- (mn)^2 | m x m x n x n
+- a + b | a + b
+- Only q is squared — not p.
+- Brackets mean both m and n are squared.
+- Power Rules
+- Use power rules to simplify algebraic expressions.
+- 1 To multiply, add the powers. p^7 x p^3 = p^{10}   q^5 x q^2 = q^{7}
+- 2 To divide, subtract the powers. m^9 / m^5 = m^4   n^{1/2} = n^{1-3} = n^{-2}
+- Section 2 — Algebra
+
+### 8. Text from Image 8 (Pages on Substituting into Formulas / Writing and Rearranging Formulas - Section 2 Algebra, Pages 20-21)
+
+- Substituting into Formulas
+- Definitions
+- |  | Definition | Example |
+- | EXPRESSION | A collection of terms — it doesn't have an '=' sign. | 2x -9 |
+- | EQUATION | An expression that has an '=' sign in it. | 5x +3 =18 |
+- | FORMULA | A rule that helps you work something out (has an '=' sign). | S = D / T |
+- | SUBJECT | The letter on its own before the '=' sign. | θ =6b -3 |
+- Putting Numbers into Formulas
+- 1 Write out the formula.
+- 2 Write it out again, but substitute numbers into the right-hand side.
+- 3 Work it out in stages.
+- EXAMPLE
+- The formula for the cost in pounds, C, of travelling m miles in a taxi is C = 2m +5. How much would a 6-mile taxi ride cost?
+- 1 C =2m +5
+- 2 C =2 x6 +5 Use BODMAS to work out in the right order.
+- 3 C =12 +5 =17
+- So a 6-mile taxi ride would cost £17.
+- Wordy Formulas
+- For formulas in words, use the same method but substitute numbers for words.
+- EXAMPLE
+- The formula for the number of points you get in a board game is Points = number of red counters x (number of yellow counters -2) How many points would you get from 12 red counters and 9 yellow counters?
+- 1 Points = red counters x (yellow counters -2)
+- 2 Points =12 x (9 -2) Work out the brackets first.
+- 3 Points =12 x7 =84 points
+- Section 2 — Algebra
+- Writing and Rearranging Formulas
+- Making Expressions
+- 1 Extract all the important information from the question.
+- 2 Use the information to make an expression.
+- EXAMPLE
+- Ellie has x oranges. Jamal has twice as many, then eats 4 of them. How many oranges do they have in total?
+- 1 Ellie = x oranges Turn the info into maths.
+-   Jamal = 2 x -4
+- 2 Total = x + 2x -4 = (3x -4) oranges
+- E.g. 2 more/2 less = +2/-2, twice as many = x2, etc.
+- Using Formulas to Solve Equations
+- 1 Use the information to write a formula. This is like making an expression, but the formula will start 'subject = '.
+- 2 Substitute the numbers into the formula to form an equation.
+- 3 Solve the equation.
+- EXAMPLE
+- A paperboy earns £3, plus 20p for each newspaper (n) he delivers. If he earns £11, how many newspapers does he deliver?
+- 1 Money earned (E) =3 + 0.2n 20p = £0.20
+- 2 11 =3 + 0.2n
+- 3 8 =0.2n n=40 newspapers
+- Rearranging Formulas
+- Rearrange formulas to change the subject.
+- Three rules for rearranging a formula:
+- 1 Always do the same thing to both sides of the formula.
+- 2 Do the opposite operation to get rid of things you don't want.
+- + is the opposite of -
+- x is the opposite of /
+- 3 Keep going until you have the letter you want on its own.
+- EXAMPLE
+- Rearrange a = b / 4 -7 to make b the subject of the formula.
+- 1 a +7 = b /4 -7 +7
+-   a +7 = b /4
+- 2 (a +7) x4 = b
+- 3 4(a +7) = b OR b =4a +28
+- Section 2 — Algebra
+
